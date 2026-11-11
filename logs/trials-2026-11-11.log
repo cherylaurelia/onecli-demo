@@ -1,0 +1,126 @@
+round=1 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=1 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=1 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=1 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=1 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=1 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=2 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=2 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=2 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=2 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=2 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=2 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=3 base 3145728: RESULT sent=3145743 received=3129344 complete=false NUDGE received=3145746 complete=true Error: expected false to be true // Object.is equality Caused by: AssertionError: expected false to be true // 
+
+round=3 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=3 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=3 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=3 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=3 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=4 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=4 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=4 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=4 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=4 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=4 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=5 base 3145728: RESULT sent=3145743 received=3080192 complete=false NUDGE received=3145746 complete=true Error: expected false to be true // Object.is equality Caused by: AssertionError: expected false to be true // 
+
+round=5 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=5 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=5 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=5 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=5 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=6 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=6 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=6 base 4194304: RESULT sent=4194319 received=4177920 complete=false NUDGE received=4194322 complete=true Error: expected false to be true // Object.is equality Caused by: AssertionError: expected false to be true // 
+
+round=6 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=6 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=6 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=7 base 3145728: RESULT sent=3145743 received=3080192 complete=false NUDGE received=3145746 complete=true Error: expected false to be true // Object.is equality Caused by: AssertionError: expected false to be true // 
+
+round=7 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=7 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=7 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=7 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=7 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=8 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=8 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=8 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=8 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=8 base 6291456: RESULT sent=6291471 received=6275072 complete=false NUDGE received=6291474 complete=true Error: expected false to be true // Object.is equality Caused by: AssertionError: expected false to be true // 
+
+round=8 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=9 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=9 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=9 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=9 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=9 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=9 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=10 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=10 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=10 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=10 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=10 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=10 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=11 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=11 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=11 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=11 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=11 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=11 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=12 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=12 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=12 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=12 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=12 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=12 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=13 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=13 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=13 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=13 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=13 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=13 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=14 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=14 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=14 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=14 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=14 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=14 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=15 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=15 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=15 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=15 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=15 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=15 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=16 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=16 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=16 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=16 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=16 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=16 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=17 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=17 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=17 base 4194304: RESULT sent=4194319 received=4177920 complete=false NUDGE received=4194322 complete=true Error: expected false to be true // Object.is equality Caused by: AssertionError: expected false to be true // 
+
+round=17 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=17 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=17 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=18 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=18 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=18 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=18 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=18 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=18 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=19 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=19 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=19 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=19 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=19 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=19 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=20 base 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=20 flush 3145728: RESULT sent=3145743 received=3145743 complete=true NUDGE received=3145746 complete=true 
+round=20 base 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=20 flush 4194304: RESULT sent=4194319 received=4194319 complete=true NUDGE received=4194322 complete=true 
+round=20 base 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 
+round=20 flush 6291456: RESULT sent=6291471 received=6291471 complete=true NUDGE received=6291474 complete=true 

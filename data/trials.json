@@ -1,0 +1,59 @@
+[
+  {
+    "arm": "base",
+    "size": 3145728,
+    "runs": 20,
+    "stalled": 3,
+    "releasedByNudge": 3,
+    "shortBy": [
+      16399,
+      65551,
+      65551
+    ]
+  },
+  {
+    "arm": "flush",
+    "size": 3145728,
+    "runs": 20,
+    "stalled": 0,
+    "releasedByNudge": 0,
+    "shortBy": []
+  },
+  {
+    "arm": "base",
+    "size": 4194304,
+    "runs": 20,
+    "stalled": 2,
+    "releasedByNudge": 2,
+    "shortBy": [
+      16399,
+      16399
+    ]
+  },
+  {
+    "arm": "flush",
+    "size": 4194304,
+    "runs": 20,
+    "stalled": 0,
+    "releasedByNudge": 0,
+    "shortBy": []
+  },
+  {
+    "arm": "base",
+    "size": 6291456,
+    "runs": 20,
+    "stalled": 1,
+    "releasedByNudge": 1,
+    "shortBy": [
+      16399
+    ]
+  },
+  {
+    "arm": "flush",
+    "size": 6291456,
+    "runs": 20,
+    "stalled": 0,
+    "releasedByNudge": 0,
+    "shortBy": []
+  }
+]

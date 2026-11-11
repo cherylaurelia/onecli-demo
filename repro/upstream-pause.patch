@@ -1,0 +1,23 @@
+diff --git a/apps/gateway-e2e/src/upstream.ts b/apps/gateway-e2e/src/upstream.ts
+index 7b699b37..b99afa3a 100644
+--- a/apps/gateway-e2e/src/upstream.ts
++++ b/apps/gateway-e2e/src/upstream.ts
+@@ -64,6 +64,9 @@ export interface RecordedUpgrade {
+   header(name: string): string | undefined;
+   /** Everything the client has sent through the pipe since the upgrade. */
+   received(): string;
++  /** Stop reading the socket, so a large write backs up to the gateway. */
++  pauseReads(): void;
++  resumeReads(): void;
+ }
+ 
+ /** How the stub answers an upgrade. Defaults to a well-formed 101. */
+@@ -372,6 +375,8 @@ export const startStubUpstream = async (
+           rawHeaders: [...req.rawHeaders],
+           header: (name: string) => headers[name.toLowerCase()],
+           received: () => inbound,
++          pauseReads: () => socket.pause(),
++          resumeReads: () => socket.resume(),
+         });
+         for (const w of upgradeWaiters) {
+           if (upgraded.length >= w.count) {
