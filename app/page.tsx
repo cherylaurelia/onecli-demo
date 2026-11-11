@@ -151,6 +151,12 @@ export default function Page() {
           Cost with a healthy upstream, one 64 MiB message, {speed("base")?.runs} runs each: median{" "}
           {speed("base")?.medianMs} ms today, {speed("flush")?.medianMs} ms with the flush. No slowdown measured.
         </p>
+        <p className="mt-3">
+          Their CI on the fork (<a className="text-green-dark underline" href={CI_URL}>checks</a>): lint and format, build
+          and type check, Helm and the TypeScript unit tests pass. The Rust unit and E2E jobs failed three times before
+          reaching the code, at the runner&apos;s <code className="font-mono">apt-get install libclang</code> step
+          (&quot;Temporary failure resolving security.ubuntu.com&quot;), so their Rust checks were run locally instead.
+        </p>
       </Section>
 
       <Section label="Not tested">
